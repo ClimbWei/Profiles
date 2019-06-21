@@ -1,10 +1,13 @@
 # China Area Network
 # > Apple
+DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,appstore.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,mzstatic.com
 # > Microsoft
@@ -77,6 +80,7 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomi.com
 # > bilibili
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,hdslb.com
 # > iQiyi
@@ -146,6 +150,7 @@ DOMAIN,ip.bjango.com
 DOMAIN,speedtest.macpaw.com
 # > Other
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,beitaichufang.com
 DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,chunyu.mobi

@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,bit-z.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,blubrry.com
 DOMAIN-SUFFIX,book.com.tw
 DOMAIN-SUFFIX,booklive.jp
 DOMAIN-SUFFIX,books.com.tw
@@ -142,7 +143,7 @@ DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,esoir.be
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,feedly.com
-DOMAIN-SUFFIX,files.wordpress.com
+DOMAIN-SUFFIX,firech.at
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,foreignpolicy.com
@@ -151,6 +152,7 @@ DOMAIN-SUFFIX,gate.io
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getsync.com
 DOMAIN-SUFFIX,globalvoices.org
+DOMAIN-SUFFIX,goo.ne.jp
 DOMAIN-SUFFIX,goo.ne.jp
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gov
@@ -210,7 +212,9 @@ DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,nanyang.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,newstapa.org
+DOMAIN-SUFFIX,nhk.or.jp
 DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nii.ac.jp
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nofile.io
 DOMAIN-SUFFIX,now.com
@@ -225,7 +229,9 @@ DOMAIN-SUFFIX,nytlog.com
 DOMAIN-SUFFIX,nytstyle.com
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,on.cc
 DOMAIN-SUFFIX,orientaldaily.com.my
+DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,paltalk.com
 DOMAIN-SUFFIX,pbxes.com
 DOMAIN-SUFFIX,pcdvd.com.tw
@@ -291,12 +297,14 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,voxer.com
 DOMAIN-SUFFIX,vzw.com
 DOMAIN-SUFFIX,w3schools.com
+DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,whoer.net
 DOMAIN-SUFFIX,wikimapia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,winudf.com
 DOMAIN-SUFFIX,wire.com
+DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,workflow.is
 DOMAIN-SUFFIX,worldcat.org
 DOMAIN-SUFFIX,wsj.com
@@ -383,6 +391,7 @@ DOMAIN,books.itunes.apple.com
 # >> iTunes Store Moveis Trailers
 DOMAIN,hls.itunes.apple.com
 # >> App Store Preview
+DOMAIN,apps.apple.com
 DOMAIN,itunes.apple.com
 # >> Spotlight
 DOMAIN,api-glb-sea.smoot.apple.com
@@ -394,6 +403,11 @@ DOMAIN,gspe1-ssl.ls.apple.com
 PROCESS-NAME,News
 USER-AGENT,AppleNews*
 USER-AGENT,com.apple.news*
+DOMAIN-SUFFIX,apple.news
+DOMAIN,news-client.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,apple.comscoreresearch.com
 # > Google
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,android.com
@@ -483,9 +497,11 @@ DOMAIN-SUFFIX,myactimes.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,now.im
 DOMAIN-SUFFIX,redditlist.com
+DOMAIN-SUFFIX,smartmailcloud.com
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,sparknotes.com
 DOMAIN-SUFFIX,streetvoice.com
+DOMAIN-SUFFIX,supertop.co
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,twitchcdn.net
